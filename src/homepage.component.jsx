@@ -4,7 +4,7 @@ import "./homepage.component.scss";
 export const HomePage = () => (
   <div>
     <div className="homepage">
-      <div className="directory-menu">
+      <div className="directory-container">
         <div className="directory-item">
           <div className="content">
             <h1 className="title">ITEM 1</h1>
